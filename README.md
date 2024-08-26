@@ -14,8 +14,3 @@ My goal is to contribute to the tech community through practical and effective s
  
  Areas of Expertise:Cybersecurity
 
- 🌟 Project
- 
-   System Maintenance Script: A comprehensive script designed to automate the management and execution of various system maintenance tools. 
-   It includes features for downloading, installing, and running essential utilities such as RKill, TDSSKiller, ADWCleaner, CCleaner, and Emsisoft Emergency Kit.
-   The script offers an interactive user experience with progress indicators and color-coded messages for better usability.
