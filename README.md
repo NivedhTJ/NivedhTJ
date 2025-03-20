@@ -1,15 +1,32 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>I'm a dedicated developer with a strong interest in cybersecurity and system maintenance. I focus on creating and managing tools that streamline and enhance system upkeep and security. My goal is to contribute to the tech community through practical and effective solutions.<br><br>🛠️ Skills<br><br>Languages: C, Python, Java<br><br>Tools: VS Code, GitHub<br><br>Areas of Expertise:Cybersecurity
+### 👋 Hi, I'm Nevada TJ!
 
+🌟 **About Me:**  
+- 🎓 Computer Science Engineering Student in Kerala, India  
+- 💻 Interested in **Computer Architecture** and **Networking**  
+- 🌐 Learning **C**, **Java**, **HTML/CSS**, and **APIs**  
+- 🛡️ Exploring **Cybersecurity**  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaivaldrin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nivedh-tj-998a2a2b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVTzL8qIiT7%2Bu13BPWAtDHQ%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NivedhTJ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3SMaisLUi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MusashiValdrin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kaivaldrin) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kaivaldrin) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NivedhTJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NivedhTJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NivedhTJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📫 **Connect with me:**  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/nevadatj)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+🛠️ **Tech Stack:**  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+
+---
+
+📊 **GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nevadatj&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nevadatj&layout=compact&theme=radical)  
+
+---
+
+⭐️ _"Striving to learn and grow every day!"_  
