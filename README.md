@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Nevada TJ!
+### 👋 Hi, I'm Nivedh TJ!
 
 🌟 **About Me:**  
 - 🎓 Computer Science Engineering Student in Kerala, India  
