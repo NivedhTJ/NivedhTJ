@@ -1,11 +1,29 @@
-# About Me:
-**About Me:**  <br>-  Computer Science Engineering Student in Kerala, India  <br>-  Interested in **Computer Architecture** and **Networking**  <br>-  Learning **C**, **Java**, **HTML/CSS**, and **APIs**  <br>-  Exploring **Cybersecurity**
+### About Me
 
+I am **Nivedh**, a **BTech Computer Science Engineering** student (expected 2027) at the **College of Engineering Chengannur**.
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nivedh-tj-998a2a2b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nivedhtj2005@gmail.com) 
+I work with **C, Java, and Python**, and have experience in **web development** using **HTML, CSS, and JavaScript**. On the backend, I use **FastAPI** and am familiar with API testing using **Postman**. I use **Git and GitHub** for version control and **VS Code** as my primary development environment.
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+I am currently working on **academic mini projects**, focusing on writing clean, structured code and strengthening my core computer science fundamentals.
 
+---
 
+### Tech Stack
+- **Languages:** C, Java, Python
+- **Web:** HTML, CSS, JavaScript
+- **Backend:** FastAPI
+- **Tools:** Git, GitHub, Postman, VS Code
+
+---
+
+### Coursework
+- Data Structures and Algorithms  
+- Operating Systems  
+- Database Management Systems  
+- Computer Networks  
+- Management of System Software  
+
+---
+
+### Contact
+- **Email:** nivedhtj2005@gmail.com
