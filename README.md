@@ -6,7 +6,7 @@ I am technically proficient in C, Java, and Python. My development stack include
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
