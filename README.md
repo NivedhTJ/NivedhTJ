@@ -38,6 +38,3 @@ I am technically proficient in C, Java, and Python. My development stack include
 
 *   **Email:** [nivedhtj2005@gmail.com](mailto:nivedhtj2005@gmail.com)
 """
-
-with open("README.md", "w") as f:
-    f.write(readme_content)
