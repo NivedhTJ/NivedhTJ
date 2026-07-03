@@ -1,29 +1,43 @@
-### About Me
+# Hello, I'm Nivedh! 👋
 
-I am **Nivedh**, a **BTech Computer Science Engineering** student (expected 2027) at the **College of Engineering Chengannur**.
+I am a BTech Computer Science Engineering undergraduate (2023–2027) at the College of Engineering Chengannur. My focus lies in software development and cybersecurity, with a commitment to writing structured, efficient code and strengthening core computer science fundamentals.
 
-I work with **C, Java, and Python**, and have experience in **web development** using **HTML, CSS, and JavaScript**. On the backend, I use **FastAPI** and am familiar with API testing using **Postman**. I use **Git and GitHub** for version control and **VS Code** as my primary development environment.
-
-I am currently working on **academic mini projects**, focusing on writing clean, structured code and strengthening my core computer science fundamentals.
+I am technically proficient in C, Java, and Python. My development stack includes web technologies (HTML, CSS, JavaScript) and backend development using FastAPI. I utilize Git/GitHub for version control and VS Code for development. My cybersecurity background includes web application vulnerability analysis, CTF methodologies, and DevSecOps practices.
 
 ---
 
-### Tech Stack
-- **Languages:** C, Java, Python
-- **Web:** HTML, CSS, JavaScript
-- **Backend:** FastAPI
-- **Tools:** Git, GitHub, Postman, VS Code
+### 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C, Java, Python |
+| **Web Development** | HTML, CSS, JavaScript |
+| **Backend** | FastAPI |
+| **Cybersecurity & Tools** | Postman, Git, GitHub, VS Code |
 
 ---
 
-### Coursework
-- Data Structures and Algorithms  
-- Operating Systems  
-- Database Management Systems  
-- Computer Networks  
-- Management of System Software  
+###  Professional & Academic Experience
+
+*   **Internship:** SFO Technologies (2-week technical internship)
+*   **Certifications:** DevSecOps in AWS (Codecademy)
 
 ---
 
-### Contact
-- **Email:** nivedhtj2005@gmail.com
+###  Coursework
+
+*   Data Structures and Algorithms
+*   Operating Systems
+*   Database Management Systems
+*   Computer Networks
+*   Management of System Software
+
+---
+
+###  Contact
+
+*   **Email:** [nivedhtj2005@gmail.com](mailto:nivedhtj2005@gmail.com)
+"""
+
+with open("README.md", "w") as f:
+    f.write(readme_content)
