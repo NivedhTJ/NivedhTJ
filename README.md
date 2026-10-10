@@ -47,9 +47,9 @@ I work on academic and personal projects to apply programming concepts and explo
 
 | Project | Description |
 |---|---|
-| [**AI-Based Farmer Query Support and Advisory System**](#) | An agricultural advisory application with natural-language queries, plant disease classification, and weather-related information. |
-| [**PHISH-CLI**](#) | A Python command-line tool that analyzes URLs using structural heuristics to identify potential phishing risks. |
-| [**SysClean**](#) | A Python utility for file organization, duplicate detection, and metadata removal. |
+| [**AI-Based Farmer Query Support and Advisory System**](https://github.com/NivedhTJ/2023-27batch-csd334-grp2-ai_based_farmer_query_support_and_advisory_system) | An agricultural advisory application with natural-language queries, plant disease classification, and weather-related information. |
+| [**PHISH-CLI**](https://github.com/NivedhTJ/phish-cli) | A Python command-line tool that analyzes URLs using structural heuristics to identify potential phishing risks. |
+| [**SysClean**](https://github.com/NivedhTJ/automated-file-organizer) | A Python utility for file organization, duplicate detection, and metadata removal. |
 
 ##  Currently Working On
 
