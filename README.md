@@ -81,8 +81,8 @@ Sentinel Patrol is an AI-assisted police operations and criminal intelligence pl
 
 ##  Get in Touch
 
-- 📧 Email: [nivedhtj2005@gmail.com](mailto:nivedhtj2005@gmail.com)
-- 🔗 LinkedIn: [Nivedh TJ](https://www.linkedin.com/in/nivedh-tj-ab89232a0/)
+-  Email: [nivedhtj2005@gmail.com](mailto:nivedhtj2005@gmail.com)
+-  LinkedIn: [Nivedh TJ](https://www.linkedin.com/in/nivedh-tj-ab89232a0/)
 
 ---
 
